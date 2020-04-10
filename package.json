@@ -1,5 +1,5 @@
 {
-  "name": "nodetscfork",
+  "name": "Project-2",
   "version": "1.0.0",
   "description": "",
   "main": "dist/server.js",
@@ -33,13 +33,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayasser/NodeTypescriptFork.git"
+    "url": "git+https://github.com/ayasser3/Project-2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ayasser/NodeTypescriptFork/issues"
+    "url": "https://github.com/ayasser3/Project-2/issues"
   },
-  "homepage": "https://github.com/ayasser/NodeTypescriptFork#readme"
+  "homepage": "https://github.com/ayasser3/Project-2#readme"
 }
